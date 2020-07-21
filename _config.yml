@@ -1,34 +1,32 @@
 # Site settings
-title: 流浪地 # 博客名称
-description: "Sample Blog"
-url:  "https://cybergipsy2020.github.io" # 博客地址
+title: 在博物馆的屋顶上 # 博客名称
+description: "le toit du musée"
+url:  "https://palefire.github.io" # 博客地址
 baseurl: "/"           # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
 author:
-  name: "Ipsy" #你的昵称
-  email: "ipsy@email.com" #你的邮箱，可以留空，如果不想被找到建议不要使用实名过的邮箱。
-  url: "https://cybergipsy2020.github.io" # 博客地址
+  name: "西" #你的昵称
+  email: #你的邮箱，可以留空，如果不想被找到建议不要使用实名过的邮箱。
+  url: "https://palefire.github.io" # 博客地址
 permalink: /:year/:month/:day/:title:output_ext
 
 #Plugins
 plugins: [jekyll-paginate, jekyll-feed, jekyll-seo-tag, jekyll-sitemap]
 
 #Pagination
-paginate: 3 # 每页文章数
+paginate: 5 # 每页文章数
 paginate_path: "/page:num/"
 
 #SEO
 twitter:
-  username: twitterusername # 推特用户名
-  card: twitter description # 介绍
+  username: xishiang # 推特用户名
+  card:  # 介绍
 facebook:
   app_id: # Facebook app ID for Facebook insights
   publisher: # Facebook page URL or ID of the publishing entity
   admins: # Facebook user ID for domain insights linked to a personal account
-logo: /assets/img/logo.jpg # 博客logo，此处引用了路径为“/assets/img/logo.jpg”的图片，可修改
+logo: /assets/img/logo2.jpg # 博客logo，此处引用了路径为“/assets/img/logo.jpg”的图片，可修改
 social:
   links: # 其他链接
-    - https://www.google.com
-    - https://www.github.com/cybergipsy2020
 
 webmaster_verifications:
   google: 
@@ -36,7 +34,7 @@ webmaster_verifications:
   alexa: 
   yandex: 
   baidu: 
-lang: en_US
+lang: zh-CN
 
 #Highlighter
 kramdown:
@@ -61,8 +59,8 @@ sass:
 gittalk:
   # Note: A GitHub Application is needed for authorization, if you don't have one, going to https://github.com/settings/applications/new register a new one.
   # You must specify the website domain url in the Authorization callback URL field.
-  clientID: ee4f12fb83c53adfbc5c # 改成你的 GitHub Application Client ID
-  clientSecret: 46af9f738b7b1a719e934a42f6fdebc1c8d62296  # 改成你的 GitHub Application Client Secret,
-  repository: cybergipsy2020.github.io  # 改成你的 Storage gittalk's repository
-  owner: cybergipsy2020  # 改成你的 GitHub repo owner,
-  admin: cybergipsy2020  # 改成你的 GitHub repo owner and collaborators, only these guys can initialize github issues eg. 'colynn,daattali'
+  clientID: c02d9547ae9d0d2f5a85 # 改成你的 GitHub Application Client ID
+  clientSecret: 13238ec336f9c21682f3389a47e86cbcf82c2a34  # 改成你的 GitHub Application Client Secret,
+  repository: apalefire.github.io  # 改成你的 Storage gittalk's repository
+  owner: apalefire  # 改成你的 GitHub repo owner,
+  admin: apalefire  # 改成你的 GitHub repo owner and collaborators, only these guys can initialize github issues eg. 'colynn,daattali'
