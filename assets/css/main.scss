@@ -1,4 +1,8 @@
 ---
 ---
 
+@font-face {
+	font-family: "Noto serif";
+	src: url("../assets/NotoSerifSC-Medium.otf");
+}
 @import "base", "typography", "header", "post", "home", "footer", "paginator", "archive", "scrollbar", "contact", "related-posts", "mobile";
