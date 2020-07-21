@@ -4,7 +4,7 @@ analytics-id: #leave blank to not use Analytics
 #Subtitle
 subtitle:
   active: true
-  text: Welcome
+  text: “……以为世界是个朋友”
 
 #Nav 
 nav:
