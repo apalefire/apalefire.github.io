@@ -52,7 +52,7 @@ html{
   color: #fff;
   display: block;
   font-size: larger;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Noto serif', serif
 }
 
 .y{
@@ -99,7 +99,7 @@ blockquote {
 #markdown-toc::before {
   content: "Contents";
   font-size: 1.1rem;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Noto serif', serif;
   font-weight: bold;
 }
 
@@ -113,7 +113,7 @@ blockquote {
   line-height: 25px;
   li{
     a{
-      font-family: 'PT Serif', serif;
+      font-family: 'Noto serif', serif;
       text-decoration: none;
     }
     a:hover{
