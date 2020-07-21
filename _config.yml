@@ -1,7 +1,7 @@
 # Site settings
 title: 在博物馆的屋顶上 # 博客名称
 description: "le toit du musée"
-url:  "https://palefire.github.io" # 博客地址
+url:  "https://apalefire.github.io" # 博客地址
 baseurl: "/"           # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
 author:
   name: "西" #你的昵称
