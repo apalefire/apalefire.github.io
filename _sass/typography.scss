@@ -1,19 +1,24 @@
+@font-face {
+	font-family: "Noto serif";
+	src: url("../assets/NotoSerifSC-Medium.otf");
+}
+
 h1, h2, h3, h4, h5, h6{
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Noto serif', serif;
     margin-bottom: 10px;
     text-decoration: none;
     color: black;
     a{
         text-decoration: none;
         color: black;
-        font-family: 'Montserrat', sans-serif;
+        font-family: 'Noto serif', serif;
     }
 }
 
 p, ul, ol{
-    font-family: 'PT Serif', serif;
+    font-family: 'Noto serif', serif;
     li{
-      font-family: 'PT Serif', serif;
+      font-family: 'Noto serif', serif;
       font-size: 1.15rem;
     }
 }
@@ -37,5 +42,5 @@ p{
 }
 
 a{
-    font-family: 'PT Serif', serif;
+    font-family: 'Noto serif', serif;
 }
