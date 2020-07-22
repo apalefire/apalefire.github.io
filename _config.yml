@@ -10,7 +10,11 @@ author:
 permalink: /:year/:month/:day/:title:output_ext
 
 #Plugins
-plugins: jekyll-paginate, jekyll-feed, jekyll-seo-tag, jekyll-sitemap
+plugins: 
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 #Pagination
 paginate: 5 # 每页文章数
