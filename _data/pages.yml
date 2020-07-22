@@ -1,5 +1,5 @@
 pages:
-  - {name: '关于', url: 'about.html'}
+  - {name: '有关本博', url: 'about.html'}
   - {name: '归档', url: 'archive.html'}
   - {name: '分类', url: 'categories/'}
 
