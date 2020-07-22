@@ -7,6 +7,8 @@ title: About
 本博客由自称“西”/“西象”的不知名互联网用户所运行。
 
 评论功能由 _Gitalk_ 驱动，评论需要Github账号。
+
+点击主标题回到主页。
 &nbsp;  
 &nbsp;  
 &nbsp;  
