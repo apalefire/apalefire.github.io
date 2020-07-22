@@ -39,6 +39,10 @@
     {% include gitalk-comment.html %}
     {% endif %}
     
+    {% if site.utterances %}
+    {% include utterances-comment.html %}
+    {% endif %}
+    
   </div>
   
 {%- include footer.html -%}
