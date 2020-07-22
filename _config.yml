@@ -68,3 +68,5 @@ gittalk:
   #repository: apalefire.github.io  # 改成你的 Storage gittalk's repository
   #owner: apalefire  # 改成你的 GitHub repo owner,
   #admin: apalefire  # 改成你的 GitHub repo owner and collaborators, only these guys can initialize github issues eg. 'colynn,daattali'
+
+utterances: true
