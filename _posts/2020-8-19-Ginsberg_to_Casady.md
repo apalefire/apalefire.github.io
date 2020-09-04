@@ -35,3 +35,5 @@ __亲爱的尼尔：__
 __艾伦·金斯堡__
 
 &nbsp;  
+
+原文：[rictornorton.co.uk/ginsberg.htm](http://rictornorton.co.uk/ginsberg.htm)
