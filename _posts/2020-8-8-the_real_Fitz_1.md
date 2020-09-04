@@ -94,3 +94,4 @@ __第一章 着笔缘由__
 
 (10) Helen Hayes (1900.10.10 – 1993.3.17)，美国知名演员。[↩](#n10)
 
+原文：[fitzgerald.narod.ru/bio/graham-threalscott35_1.html](http://fitzgerald.narod.ru/bio/graham-threalscott35_1.html)
