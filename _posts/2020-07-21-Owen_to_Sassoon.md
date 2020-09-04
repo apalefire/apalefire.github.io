@@ -63,3 +63,5 @@ __你骄傲的朋友，欧文__
 (6) 克雷格和洛克哈特 _(Craig & Lockhart)_ ：指萨松和欧文所相遇的军医院。下文“打桥牌的克雷格和洛克哈特”，应指该军医院的主人。 [↩](#n6)
 
 (7) 你拿来开过玩笑的那个城市：或指所多玛 [↩](#n7)
+
+原文：[rictornorton.co.uk/owen.htm](http://rictornorton.co.uk/owen.htm)
