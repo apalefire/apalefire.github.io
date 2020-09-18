@@ -230,7 +230,7 @@ Donne... I tried an imitation of  Donne. That was really early, like the _vers d
 
 So this was "Love Letter", an imitation of Donne, trying to put all this hippie schmaltz into the formalistic straitjacket of a poem in the style of John Donne. And _that_ was the reason I finally had to break out and do something like "I saw the best minds of my generation destroyed by madness", you know, some long line that actually said what I wanted to say, because _this_ was very much in the closet.
 
-《情书》就是这么来的，这是对邓恩的的一种模仿，是试图把这一切嬉皮式的过分感伤包进一件形式主义派的束身衣，以约翰·邓恩诗的风格。__那__<sup id='n3'>[1](#ftn2)</sup>是我最终挣脱出来，然后写一些像“我看见这一代最杰出的头脑毁于疯狂”<sup id='n4'>[2](#ftn2)</sup>这样的东西，你知道的，一些很长的诗句，来表达我真正想表达的东西，因为__这__ <sup id='n5'>[3](#ftn2)</sup>还是大体上躲在柜中<sup id='n6'>[4](#ftn2)</sup>的。
+《情书》就是这么来的，这是对邓恩的的一种模仿，是试图把这一切嬉皮式的过分感伤包进一件形式主义派的束身衣，以约翰·邓恩诗的风格。**那**<sup id='n3'>[1](#ftn2)</sup>是我最终挣脱出来，然后写一些像“我看见这一代最杰出的头脑毁于疯狂”<sup id='n4'>[2](#ftn2)</sup>这样的东西，你知道的，一些很长的诗句，来表达我真正想表达的东西，因为**这**<sup id='n5'>[3](#ftn2)</sup>还是大体上躲在柜中<sup id='n6'>[4](#ftn2)</sup>的。
 
 &nbsp;  
 
@@ -252,4 +252,4 @@ It was a real serious attempt to get to the depth; under a love poem by Donne I 
 
 (3) “这”应当指《情书》（或许也包括了在《嚎叫》之前金斯堡的其他创作）。[↩](#n5)
 
-(4) “躲在柜中”或许既是在说金自己的性取向，也是在说之后讲到的玄学派诗人的“种刻意回避现实的琐碎庸常的一面的‘柜中’态度” 。[↩](#n6)
+(4) “躲在柜中”或许既是在说金自己的性取向，也是在说之后讲到的玄学派诗人的“刻意回避现实的琐碎庸常的一面的‘柜中’态度” 。[↩](#n6)
