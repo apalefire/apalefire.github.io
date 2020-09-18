@@ -20,6 +20,7 @@ customexcerpt: "“那我只好再被流放一次，唉，走进你。” ——
 
 难道你不厌倦两败俱伤的争吵？
 
+&nbsp;  
 
 你是否有心让爱变得蛮横无理，
 
@@ -35,6 +36,7 @@ customexcerpt: "“那我只好再被流放一次，唉，走进你。” ——
 
 那我只好再被流放一次，唉，走进你。
 
+&nbsp;  
 
 与我和解吧，与我们这一类<sup id='n2'>[2](#ftn)</sup>和解，
 
@@ -50,6 +52,7 @@ customexcerpt: "“那我只好再被流放一次，唉，走进你。” ——
 
 你也当如此，我们就能这样共度一夜。
 
+&nbsp;  
 
 这个春天我们不会变得疯狂，
 
@@ -65,6 +68,7 @@ customexcerpt: "“那我只好再被流放一次，唉，走进你。” ——
 
 那些夜晚不过是我思绪的暗影。
 
+&nbsp;  
 
 那就在花园里体味痛苦吧，夏季暮色四合，
 
@@ -86,6 +90,7 @@ customexcerpt: "“那我只好再被流放一次，唉，走进你。” ——
 
 于是，你若是开始悲泣，我也将和你一起。
 
+&nbsp;  
 
 1947年
 
@@ -125,6 +130,7 @@ The truest love is comedy.
 
 Will thou not weary of the tragic argument?
 
+&nbsp;  
 
 Would’st thou make love perverse, and then
 
@@ -140,6 +146,7 @@ You’d make a Devil of again:
 
 Then should I be once more exiled, alas, in thee.
 
+&nbsp;  
 
 Make peace wih me, and in my kind,
 
@@ -155,6 +162,7 @@ To entertain our days, I find,
 
 And so shalt thee, when next we make a night of this.
 
+&nbsp;  
 
 This spring we’ll be not merely mad,
 
@@ -170,6 +178,7 @@ That spring hath not what winter had,
 
 Therefore thse nights are darkened shadows of my thought.
 
+&nbsp;  
 
 Grieve in a garden, then, and in a summer’s twilight,
 
@@ -197,7 +206,9 @@ Wherefore if thou must weep, now I must mourn with thee.
 
 &nbsp;  
 
-Ginsberg: __Basic Poetics I & II__: Part 27 of 35 [audio](https://cdm16621.contentdm.oclc.org/digital/collection/p16621coll1/id/375)
+Ginsberg: __Basic Poetics I & II__: Part 27 of 35 ( [audio](https://cdm16621.contentdm.oclc.org/digital/collection/p16621coll1/id/375) )
+
+&nbsp;  
 
 (节选，为了行文顺畅做了一定改动)
 
@@ -205,16 +216,19 @@ Donne... I tried an imitation of  Donne. That was really early, like the _vers d
 
 邓恩……我模仿过邓恩。那是很早的时候了。差不多是学生时代的诗歌了……我或多或少是在模仿“老天啊，闭嘴吧，让我去爱”。你知道那首诗的：《The Canonization》。我对《Love's Alchemy》和《The Funeral》也很感兴趣……你知道多恩的腔调与形式；我主要是在模仿形式——其中一种复杂的诗节……
 
+&nbsp;  
 
 ... I think Neal Cassady had cut out; we'd gone to Burroughs's farm, and I had cut out on a ship to Dakkar to get a lot of money, so we could go to New York in the Fall and live together, and I can get a house... So, I was trying to buy security – buy him – by getting a whole bunch of money together. He drove north from the marijuana farm in Texas with Burroughs to New York, and waited for me for about a week. But then he ran out of money, and Burroughs ran out of money, and they weren't talking; and Huncke was trying to sleep with him. And then he got a call from Carolyn, his future wife, that she had an apartment in San Francisco, and, "why don't you come there and get married?"; so he zapped out there. And then I got home and found he was gone and was heartbroken... Then he says, "We're not going to be lovers anymore," and then I got mad or something – I don't know what...  
 
 我记得尼尔·卡萨迪那时已经跑了；我们先去了巴勒斯的农庄，然后我坐船去达喀尔挣钱，好让我能弄到一套房子，我们秋天去纽约住在一起……我是想挣很多钱，用钱换来安全感，换来他。他往北边去，和巴勒斯从德克萨斯的大麻农庄出发去了纽约，等了我大概一个星期。但接着他没钱了，巴勒斯也没钱了，他们又闹了别扭；亨克又想和他上床。然后他接到了他未来的妻子卡洛琳的电话，她说她在旧金山有间公寓，“你为什么不过来结个婚呢？”然后他就跑掉了。我回家的时候发现他走了，心都碎了。他说“我们再也不做情人了”，然后我大概是气疯了，我也不记得了……
 
+&nbsp;  
 
 So this was "Love Letter", an imitation of Donne, trying to put all this hippie schmaltz into the formalistic straitjacket of a poem in the style of John Donne. And _that_ was the reason I finally had to break out and do something like "I saw the best minds of my generation destroyed by madness", you know, some long line that actually said what I wanted to say, because _this_ was very much in the closet.
 
-《情书》就是这么来的，这是对邓恩的的一种模仿，是试图把这一切嬉皮式的过分感伤包进一件形式主义派的束身衣，以约翰·邓恩诗的风格。__那__<sup id='n3'>[1](#ftn2)</sup>是我最终挣脱出来，然后写一些像“我看见这一代最杰出的头脑毁于疯狂”<sup id='n4'>[2](#ftn2)</sup>这样的东西，你知道的，一些很长的诗句，来表达我真正想表达的东西，因为__这__<sup id='n5'>[3](#ftn2)</sup>还是大体上躲在柜中<sup id='n6'>[4](#ftn2)</sup>的。
+《情书》就是这么来的，这是对邓恩的的一种模仿，是试图把这一切嬉皮式的过分感伤包进一件形式主义派的束身衣，以约翰·邓恩诗的风格。__那__<sup id='n3'>[1](#ftn2)</sup>是我最终挣脱出来，然后写一些像“我看见这一代最杰出的头脑毁于疯狂”<sup id='n4'>[2](#ftn2)</sup>这样的东西，你知道的，一些很长的诗句，来表达我真正想表达的东西，因为__这__ <sup id='n5'>[3](#ftn2)</sup>还是大体上躲在柜中<sup id='n6'>[4](#ftn2)</sup>的。
 
+&nbsp;  
 
 It was a real serious attempt to get to the depth; under a love poem by Donne I was taking the ideas of death and absent lovers and meditations. But it's all intellectual pride – that's where I picked up on the whole notion – I think the whole project of metaphysical poetry of the seventy century and of Donne ('cause I was good at writing that kind of poetry) did involve, as shows here, a certain sadomasochistic intellectual pride, and also a closet attitude toward the kitchen-sink aspects of reality. So, to really get out of this kind of closet was the notion of a kind of poetry that Anthony Hecht, Richard Wilbur, William Jay Smith had learned from John Crowe Ransom, Allen Tate and all the poets of the 30s and 40s. 
 
