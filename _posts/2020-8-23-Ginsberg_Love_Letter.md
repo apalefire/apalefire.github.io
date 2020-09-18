@@ -1,5 +1,5 @@
 ---
-title: 《情书》，金斯堡
+title: 翻译：《情书》，金斯堡
 layout: post
 categories: [translation]
 description: "金斯堡写于1947年的诗歌。"
